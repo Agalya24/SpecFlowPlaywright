@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ac555a06_002D007a_002D44ef_002Db71b_002D1ad18982e11b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PracticeSpecflowTestFeature" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;And&gt;&#xD;
+    &lt;Namespace&gt;SpecFlowPlaywright.Features&lt;/Namespace&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::3182E1D1-530D-482B-92A3-D2AD222B963E::net6.0::SpecFlowPlaywright_NUnitAssemblyHooks&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;Project Location="C:\Users\vivek\Documents\Agalya\Projects\SpecFlow_Practice\SpecFlowPlaywright\SpecFlowPlaywright" Presentation="&amp;lt;SpecFlowPlaywright&amp;gt;" /&gt;&#xD;
+  &lt;/And&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/SpawnedProcessesKnownList/=WerFault_002Eexe/@EntryIndexedValue">KillOrphaned</s:String></wpf:ResourceDictionary>
